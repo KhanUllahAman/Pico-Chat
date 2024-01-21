@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "420713586773",
+    "project_id": "pico-chat-f59cb",
+    "storage_bucket": "pico-chat-f59cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420713586773:android:92c304edc6b7ddd89774dc",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420713586773-mht4nt5n50n7duct20eepac7qj4lnhmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattingapp",
+            "certificate_hash": "47e7464382687a351524d360405ee17b85a537d9"
+          }
+        },
+        {
+          "client_id": "420713586773-6c7dhka0f1kqbg2l253j2614j744955q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzFXqn6Du1zeGqa2ugAA3qnCOlKfOPRX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420713586773-6c7dhka0f1kqbg2l253j2614j744955q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420713586773-9f2cur4sq8i9u0ka5re2ef1pehva30gp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chattingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
